@@ -73,7 +73,7 @@ Note that you have to put text inside quotes before the interpreter can understa
 
 Now try adding two strings together:
 ```
->"first name" + "last name"
+>"first name" + " last name"
 ```
 
 Combining strings with the + operator is called concatenation.
@@ -90,4 +90,4 @@ Let’s test this. Try entering these three different expressions:
 
 1 + 1 is a mathematical expression adding two numbers, while “1” + “1” is an expression concatenating two strings of the character 1. If you try to add a string and a number, both pieces are treated as strings and concatenated into a bigger string.
 
-Our code and the results as use the JS Console are only there until we hit refresh. Think of the console as a place to test ideas quickly, not a place to build something that will endure for the ages. 
+Our code and the results as we use the JS Console are only there until we hit refresh. Think of the console as a place to test ideas quickly, not a place to build something that will endure for the ages. 
