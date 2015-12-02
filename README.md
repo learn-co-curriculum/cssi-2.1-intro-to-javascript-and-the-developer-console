@@ -87,3 +87,5 @@ Let’s test this. Try entering these three different expressions:
 1 + 1 is a mathematical expression adding two numbers, while “1” + “1” is an expression concatenating two strings of the character 1. If you try to add a string and a number, both pieces are treated as strings and concatenated into a bigger string.
 
 Our code and the results as we use the JS Console are only there until we hit refresh. Think of the console as a place to test ideas quickly, not a place to build something that will endure for the ages. 
+
+<a href='https://learn.co/lessons/cssi-2.1-intro-to-javascript-and-the-developer-console' data-visibility='hidden'>View this lesson on Learn.co</a>
